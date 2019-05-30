@@ -4,10 +4,6 @@ title: About me
 slug: about-me
 draft: true
 ---
-**About Me**
-
-
-
 **About this Blog**
 
 The Art of Software has evolved significantly over the past twenty years I have been working as a software engineer.
@@ -15,7 +11,7 @@ The Art of Software has evolved significantly over the past twenty years I have 
 We stand at a junction where we have seen numerous step changes in our technology stacks:
 
 * Information is more available than it has ever been before - the advent of **Software-As-A-Service**  and the **API economy** allows us to incorporate sophisticated capabilities within our software in days instead of months.
-* **Cloud computing** provides us with unprecedented access to computing power democratizing innovation by facilitating the smallest startups to run-up infrastructure at insanely low costs through to providing the vast compute that powers powerful artificial intelligence systems such as virtual assistants or self-driving cars.
+* **Cloud computing** provides us with unprecedented access to computing power; democratizing innovation by facilitating the smallest startups to run-up infrastructure at insanely low costs through to providing the vast compute that powers powerful artificial intelligence systems such as virtual assistants or self-driving cars.
 * **Serverless** frameworks and **containers** provide us with the means to more cost-effectively and reliably scale our environments.
 * Technology is ever-present - with an ever-increasing range of ways of interacting with technology - Internet of Things; smart phones; wearables; virtual reality; augmented reality
 * Software development practices have reached a level of maturity that allow us to develop quality code more efficiently and techniques such as **automated testing** and **CI/CD** are now table stakes for a professional software engineer.
