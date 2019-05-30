@@ -2,7 +2,7 @@
 template: page
 title: About me
 slug: about-me
-draft: true
+draft: false
 ---
 **About this Blog**
 
